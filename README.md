@@ -1,4 +1,4 @@
-![Header](./github-header-banner (2).png)
+![Header](./github-header-banner (2))
 
 
 ## 🌐 Socials:
