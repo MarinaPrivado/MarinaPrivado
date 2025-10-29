@@ -1,6 +1,4 @@
-# Hi, I'm Marina ✨
-📚 Computer engineer student at UFMA
-
+![Header](./github-header-banner (2).png)
 
 
 
