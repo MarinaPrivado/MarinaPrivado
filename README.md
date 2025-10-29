@@ -1,4 +1,4 @@
-![Header](https://github.com/MarinaPrivado/MarinaPrivado/blob/main/github-header-banner%20(3).png?raw=true)
+![Header](https://github.com/MarinaPrivado/MarinaPrivado/blob/main/github-header-banner%20(5).png?raw=true)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marina_privado3) 
 
