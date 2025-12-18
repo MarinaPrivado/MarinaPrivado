@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">✨ Web development projects<br>📚 I'm currently learning js<br>🎯 Studing quantum computing algorithms<br>🎲 I love electronics</h4>
+<h4 align="left">✨ Web development projects<br>📚 I'm currently learning Esp32 <br>🎯 Studing quantum computing algorithms<br>🎲 I love electronics</h4>
 
 ###
 
