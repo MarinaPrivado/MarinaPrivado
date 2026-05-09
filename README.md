@@ -1,4 +1,5 @@
-![Header](https://github.com/MarinaPrivado/MarinaPrivado/blob/main/github-header-banner.png)
+![Header](https://github.com/MarinaPrivado/MarinaPrivado/blob/main/github-header-banner(.png )
+
 
 # 💫 About Me:
 ✨ Web development projects<br>
